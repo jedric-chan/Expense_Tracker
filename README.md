@@ -2,7 +2,7 @@
 We hope you enjoy the expense tracker we have coded.
 
 Name and task:
-Matthew Ho - Adding expenses. 
+Matthew Ho - Adding expenses. collaborative coding was one of the experiences of all time. nothing special in my opinion. didnt really encounter any problems imo.  
 
 Frankie Wu - Filtering/deleting expenses.
 
